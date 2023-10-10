@@ -19,7 +19,7 @@ const service_items:{
     id:1,
     icon:'flaticon-diamond',
     title: 'Skillful Stakes',
-    desc: 'A realm where luck takes a backseat. Our platform celebrates skill-based games, where strategy reigns supreme and adrenaline runs high.'
+    desc: '999A realm where luck takes a backseat. Our platform celebrates skill-based games, where strategy reigns supreme and adrenaline runs high.'
   },
   {
     id:2,
